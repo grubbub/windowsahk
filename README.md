@@ -8,23 +8,10 @@
         * To Do: re-think shortcuts (ctrl+num big in Teams now.)
 2. Workflow Specific
     * Shortcuts
-    * app/url launching 
-
-## Use 
-1. Mac
-    * Ctrl+Shift+A to launch blank page
-    * "ahk>" to generate text 
-    * CMD+A for selection | CMD+C to copy
-    * Launch Windows App -> Login
-    * Launch WSL2
-    * paste command
-2. Windows only
-    * ToDO
+    * app/url launching
 
 ## ToDo
-1. Delete [x]
-3. Clean out passwords [x]
-3. Re-create [x]
-4. Re-Commit []
-5. Check []
-6. Figure out inception on Windows --- Shortcut? 
+1. Check Temp stuff
+    * move to shortcuts
+2. archive AppsProd.ahk to Scripts
+3. practice getting it open / locating it fast enough 
